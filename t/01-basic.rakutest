@@ -1,0 +1,9 @@
+use Test;
+use nano;
+
+plan 2;
+
+isa-ok nano, Int, 'did we get an Int?';
+ok nano > 1657823799207739852, 'did nano work ok?';
+
+# vim: expandtab shiftwidth=4

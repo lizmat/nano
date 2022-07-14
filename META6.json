@@ -1,0 +1,25 @@
+{
+  "auth": "zef:lizmat",
+  "authors": [
+    "Elizabeth Mattijsen"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "provide term for epoch in nano seconds",
+  "license": "Artistic-2.0",
+  "name": "nano",
+  "perl": "6.d",
+  "provides": {
+    "nano": "lib/nano.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/lizmat/nano.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
