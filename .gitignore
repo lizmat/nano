@@ -1,3 +1,4 @@
 .precomp/
 /nano-*
 /releases/
+*.rakucov
