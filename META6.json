@@ -10,16 +10,24 @@
   "description": "provide term for epoch in nano seconds",
   "license": "Artistic-2.0",
   "name": "nano",
-  "perl": "6.d",
   "provides": {
     "nano": "lib/nano.rakumod"
   },
+  "raku": "6.d",
   "resources": [
   ],
   "source-url": "https://codeberg.org/lizmat/nano.git",
+  "support": {
+    "bugtracker": "https://codeberg.org/lizmat/nano/issues",
+    "email": "liz@raku.rocks",
+    "source": "https://codeberg.org/lizmat/nano.git"
+  },
   "tags": [
+    "TIME",
+    "NOW",
+    "NANO"
   ],
   "test-depends": [
   ],
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
