@@ -7,11 +7,9 @@ nano - provide term for epoch in nano seconds
 =head1 SYNOPSIS
 
 =begin code :lang<raku>
-
 use nano;
 
 say nano;  # 1657823392165615978
-
 =end code
 
 =head1 DESCRIPTION
@@ -33,7 +31,7 @@ deal to me!
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2022, 2025 Elizabeth Mattijsen
+Copyright 2022, 2025, 2026 Elizabeth Mattijsen
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 
